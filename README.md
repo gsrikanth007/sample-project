@@ -51,7 +51,7 @@ npm install
   it will generate Xcode file for ios
   (***better to delete <b>www</b> folder before ren the command) 
    
-###To Debug in Emulater
+### To Debug in Emulater
   * <b>ionic cordova emulate android --livereload</b>
       it will generate apk file for android automatically open android emulater
       (***better to delete <b>www</b> folder before ren the command)  
